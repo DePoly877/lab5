@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Student\\laba5\\5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EE4166-1758-4C90-BE2F-DBC69C9A59E3}|5.2\\5.2.vcxproj|D:\\user\\Student\\laba5\\5.2\\5.2\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4EE4166-1758-4C90-BE2F-DBC69C9A59E3}|5.2\\5.2.vcxproj|solutionrelative:5.2\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.2.cpp",
+              "DocumentMoniker": "D:\\user\\Student\\laba5\\5.2\\5.2\\5.2.cpp",
+              "RelativeDocumentMoniker": "5.2\\5.2.cpp",
+              "ToolTip": "D:\\user\\Student\\laba5\\5.2\\5.2\\5.2.cpp",
+              "RelativeToolTip": "5.2\\5.2.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T15:26:50.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

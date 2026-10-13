@@ -2,7 +2,9 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
+
 double h(const double a, const double b); // прототип
+
 int main()
 {
 	double s, t;
@@ -12,6 +14,7 @@ int main()
 	cout << "c = " << c << endl;
 	return 0;
 }
+
 double h(const double a, const double b) // визначення
 {
 	return (a + b + a*a * b*b) / (a*a + b*b);

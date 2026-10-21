@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+D:\user\Student\laba5\5.4\UnitTest1\UnitTest1.cpp(1,9): warning C4603: 'UNIT_TESTING': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+      D:\user\Student\laba5\5.4\UnitTest1\UnitTest1.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      D:\user\Student\laba5\5.4\UnitTest1\UnitTest1.cpp(2,1):
+      use of precompiled header
+  
+  LINK : D:\user\Student\laba5\5.4\x64\Debug\UnitTest1.dll not found or not built by the last incremental link; performing full link
+     Creating library D:\user\Student\laba5\5.4\x64\Debug\UnitTest1.lib and object D:\user\Student\laba5\5.4\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\user\Student\laba5\5.4\x64\Debug\UnitTest1.dll
